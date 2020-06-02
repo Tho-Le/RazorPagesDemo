@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UrSfvbZjZn+eg9Jnc9sE/7oLB6WrqTFYAb7mjKN7pMN8OSZNMjIaLctEyuSiTJL7JkAwBEItv86Ti0UK5lmpbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\docto\\source\\repos\\RazorPagesProject\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\docto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\docto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
